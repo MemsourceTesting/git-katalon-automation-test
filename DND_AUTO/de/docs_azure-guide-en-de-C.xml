@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE book [
+<!ENTITY % sgml.features "IGNORE">
+<!ENTITY % xml.features "INCLUDE">
+<!ENTITY % DOCBOOK_ENTS PUBLIC "-//OASIS//ENTITIES DocBook Character Entities V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/dbcentx.mod">
+%DOCBOOK_ENTS;
+]>
+<?asciidoc-toc maxdepth="4"?><?asciidoc-numbered?><book xmlns="http://docbook.org/ns/docbook" xmlns:xlink="http://www.w3.org/1999/xlink" version="5.0">
+<info>
+<title></title><subtitle></subtitle>
+
+<date></date>
+<productname></productname>
+<productnumber></productnumber>
+
+<abstract>
+   
+    <para></para>
+</abstract>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="Author_Group.xml"/>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="Common_Content/Legal_Notice.xml"/>
+</info>
+<preface xml:id="proc_providing-feedback-on-red-hat-documentation_default">
+<title></title>
+<simpara>  </simpara>
+<itemizedlist>
+<title></title>
+<listitem>
+<simpara></simpara>
+</listitem>
+<listitem>
+<simpara> <emphasis role="strong"></emphasis> </simpara>
+</listitem>
+</itemizedlist>
+<orderedlist numeration="arabic">
+<title></title>
+<listitem>
+<simpara> <emphasis role="strong"></emphasis> </simpara>
+<note>
+<simpara> <emphasis role="strong"></emphasis> </simpara>
+</note>
+</listitem>
+<listitem>
+<simpara></simpara>
+</listitem>
+<listitem>
+<simpara> <emphasis role="strong"></emphasis></simpara>
+<simpara></simpara>
+</listitem>
+<listitem>
+<simpara> <emphasis role="strong"></emphasis></simpara>
+<simpara></simpara>
+</listitem>
+<listitem>
+<simpara></simpara>
+</listitem>
+</orderedlist>
+</preface>
+</book>
